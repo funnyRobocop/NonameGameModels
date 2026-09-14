@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 1841c298173cdad4db8df8602c8f1c8d
-AssetOrigin:
-  serializedVersion: 1
-  productId: 320526
-  packageName: Human Mega Animations Pack Lite
-  packageVersion: 1.0.1
-  assetPath: Assets/Kevin Iglesias/Human Animations/Models/HumanF_Model.fbx
-  uploadId: 771777
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -23,6 +16,8 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -823,3 +818,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320526
+  packageName: Human Mega Animations Pack Lite
+  packageVersion: 1.0.1
+  assetPath: Assets/Kevin Iglesias/Human Animations/Models/HumanF_Model.fbx
+  uploadId: 771777
